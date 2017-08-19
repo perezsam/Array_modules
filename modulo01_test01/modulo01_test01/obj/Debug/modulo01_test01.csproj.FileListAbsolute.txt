@@ -1,0 +1,6 @@
+c:\users\liwuen\documents\visual studio 2015\Projects\modulo01_test01\modulo01_test01\bin\Debug\modulo01_test01.exe.config
+c:\users\liwuen\documents\visual studio 2015\Projects\modulo01_test01\modulo01_test01\bin\Debug\modulo01_test01.exe
+c:\users\liwuen\documents\visual studio 2015\Projects\modulo01_test01\modulo01_test01\bin\Debug\modulo01_test01.pdb
+c:\users\liwuen\documents\visual studio 2015\Projects\modulo01_test01\modulo01_test01\obj\Debug\modulo01_test01.exe
+c:\users\liwuen\documents\visual studio 2015\Projects\modulo01_test01\modulo01_test01\obj\Debug\modulo01_test01.pdb
+c:\users\liwuen\documents\visual studio 2015\Projects\modulo01_test01\modulo01_test01\obj\Debug\modulo01_test01.csprojResolveAssemblyReference.cache
